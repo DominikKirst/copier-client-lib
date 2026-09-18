@@ -1,3 +1,3 @@
 # Library
 
-Scaffolded by copier-distributor.
+Changed on the client to force a conflict.
